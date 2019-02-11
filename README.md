@@ -1,2 +1,2 @@
 # AEM7130Test_ND
-# "Hello World!"
+# "Hello World, and welcome to coding in Julia!"
