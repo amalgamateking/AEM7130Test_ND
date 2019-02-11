@@ -1,5 +1,0 @@
-Sourcetree
-Github
-bitbucket
-julia
-anaconda
